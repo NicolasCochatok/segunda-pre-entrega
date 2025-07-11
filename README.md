@@ -4,7 +4,7 @@ Copiar
 Editar
 Entrega Final - React JS (Coderhouse)
 
-Este proyecto corresponde a la segunda pre-entrega del curso de React JS. Se trata de una tienda online básica con navegación entre categorías, listado de productos y vista de detalle, utilizando React Router DOM y simulación de asincronía.
+Este proyecto corresponde a la entrega final del curso de React JS. Se trata de una tienda online básica con navegación entre categorías, listado de productos y vista de detalle, utilizando React Router DOM y simulación de asincronía.
 
 ---
 
